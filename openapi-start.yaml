@@ -16,5 +16,7 @@ servers:
   description: Development Server
 - url: https://qa.example.com
 - url: https://prod.example.com
+- url: https://qa.example.com
+- url: https://prod.example.com
 paths: {}
 components: {}
